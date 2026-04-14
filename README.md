@@ -1,6 +1,6 @@
 # 🎧 Spotify Wrapped 2025 Analysis
 
-<img width="1655" height="932" alt="Image" src="https://github.com/user-attachments/assets/7d361dcb-c82e-43c5-b913-47f580d3ca06" />
+<img width="700" height="394" alt="Image" src="https://github.com/user-attachments/assets/e1fe0224-1cf0-4a78-a600-5225d338d374" />
 
 ## 📌 Project Overview
 
