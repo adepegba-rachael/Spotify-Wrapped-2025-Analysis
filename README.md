@@ -20,7 +20,6 @@ The goal is to answer the central question:
 4. Evaluate the impact of release year on song popularity
 5. Assess geographic distribution of top-performing songs
 6. Analyze the effect of song duration on popularity
-7. Investigate the relationship between chart position and streaming performance
 
 ---
 
