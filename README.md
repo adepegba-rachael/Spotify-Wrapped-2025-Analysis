@@ -65,14 +65,15 @@ The dataset contains information on top Spotify songs in 2025, including:
 
 ### 🔹 1. Top Songs & Artists
 
-* A small number of artists dominate total streams
+* The song titled "Die with a smile" by Lady Gaga and Bruno Mars has the highest stream
+* The Top Artist is Sabrina Carpente
 * The United States contributes the highest share of top-performing songs
 
 ---
 
 ### 🔹 2. Genre Popularity
-
-* Pop and mainstream genres account for the largest share of total streams
+s
+* Pop had the most streams accounting for 24.23% of total streams
 * Listener preferences remain concentrated around widely accessible genres
 
 ---
@@ -154,17 +155,6 @@ Comparison of average values:
 
 ---
 
-### 🔹 7. Chart Performance vs Streams
-
-* Scatter plot shows a weak positive relationship
-* Better chart positions generally align with higher streams
-
-**Insight:**
-
-* Chart success contributes to visibility
-* But does not fully determine streaming performance
-
----
 
 ## 🔥 Key Insights
 
@@ -173,7 +163,6 @@ Comparison of average values:
 * Newer songs have a small but statistically significant advantage
 * Song duration has minimal impact on streaming performance
 * Geographic dominance plays a major role, with the USA leading
-* Chart performance is related to streams but not strongly predictive
 
 ---
 
@@ -194,13 +183,6 @@ These dashboards provide visual insights into trends, comparisons, and relations
 
 ---
 
-## 🚀 How to Use This Project
-
-1. Open the Excel file to explore data analysis and pivot tables
-2. View the dashboard sheet for insights
-3. Open the Power BI file (.pbix) for interactive visualization
-
----
 
 ## 📎 Author
 
