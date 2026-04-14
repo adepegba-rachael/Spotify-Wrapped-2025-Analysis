@@ -1,5 +1,7 @@
 # 🎧 Spotify Wrapped 2025 Analysis
 
+<img width="1655" height="932" alt="Image" src="https://github.com/user-attachments/assets/7d361dcb-c82e-43c5-b913-47f580d3ca06" />
+
 ## 📌 Project Overview
 
 This project explores Spotify Wrapped 2025 data to identify the key factors that influence song popularity in the modern music streaming era. Using Microsoft Excel and Power BI, the analysis examines trends in streaming performance across song characteristics, artist attributes, and market patterns.
