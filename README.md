@@ -208,4 +208,4 @@ These dashboards provide visual insights into trends, comparisons, and relations
 Data Analysis Project – Spotify Wrapped 2025
 
 ---
-I am open to collaborate on Data Analysis and Visualuzation related projects. You can reach me via email (rachael4adepegba@gmail.com) or LinkedIn(Adepegba Rachael)
+I am open to collaborate on Data Analysis and Visualuzation related projects. You can reach me via email (rachael4adepegba@gmail.com) or LinkedIn (Adepegba Rachael)
